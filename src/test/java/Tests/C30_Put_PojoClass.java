@@ -71,8 +71,6 @@ public class C30_Put_PojoClass extends BaseUrlJsonPlaceholder {
         assertEquals(expectedDataPojo.getUserId(), responsePojo.getUserId());
         assertEquals(expectedDataPojo.getId(), responsePojo.getId());
 
-
-
     }
 
 }
